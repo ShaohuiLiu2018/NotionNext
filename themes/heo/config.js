@@ -113,12 +113,12 @@ const CONFIG = {
   POST_LIST_PREVIEW: true, // 读取文章预览
   POST_LIST_IMG_CROSSOVER: true, // 博客列表图片左右交错
 
-  ARTICLE_ADJACENT: false, // 显示上一篇下一篇文章推荐
+  ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   ARTICLE_COPYRIGHT: true, // 显示文章版权声明
-  ARTICLE_RECOMMEND: false, // 文章关联推荐
+  ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   WIDGET_LATEST_POSTS: true, // 显示最新文章卡
-  WIDGET_ANALYTICS: false, // 显示统计卡
+  WIDGET_ANALYTICS: true, // 显示统计卡
   WIDGET_TO_TOP: true,
   WIDGET_TO_COMMENT: true, // 跳到评论区
   WIDGET_DARK_MODE: true, // 夜间模式
