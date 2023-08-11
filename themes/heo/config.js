@@ -115,7 +115,7 @@ const CONFIG = {
 
   ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   ARTICLE_COPYRIGHT: true, // 显示文章版权声明
-  ARTICLE_RECOMMEND: true, // 文章关联推荐
+  ARTICLE_RECOMMEND: false, // 文章关联推荐
 
   WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   WIDGET_ANALYTICS: true, // 显示统计卡
