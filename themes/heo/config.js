@@ -9,17 +9,17 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '在大的来临之前',
-  HERO_TITLE_2: '享受每一天可能的愉悦',
+  HERO_TITLE_1: '大的要来了',
+  HERO_TITLE_2: '今晚别睡',
   HERO_TITLE_3: 'SHAOHUILIU.EU.ORG',
   HERO_TITLE_4: '文章推荐',
   HERO_TITLE_5: '近期更新内容',
   HERO_TITLE_LINK: 'https://shaohuiliu.eu.org',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HERO_CATEGORY_1: { title: '精选文章', url: '/tag/精选文章' },
+  HERO_CATEGORY_2: { title: '技术分享', url: '/tag/技术分享' },
+  HERO_CATEGORY_3: { title: '学习感悟', url: '/tag/学习感悟' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
